@@ -12,7 +12,7 @@ var translate = function(word) {
 
 
 
-console.log(translate("billy")) //
-console.log(translate("emily")) //
-console.log(translate("dovetales")) //
-console.log(translate("Leanord")) //
+console.log(translate("billy")) //illybay
+console.log(translate("emily")) //emilyay
+console.log(translate("dovetales")) //ovetalesday
+console.log(translate("Leanord")) //eanordLay
