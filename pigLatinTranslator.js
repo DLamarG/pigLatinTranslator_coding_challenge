@@ -9,3 +9,10 @@ var translate = function(word) {
       return word.substring(1,) + word[0]+'ay'
     }   
   }
+
+
+
+console.log(translate())
+console.log(translate())
+console.log(translate())
+console.log(translate())
